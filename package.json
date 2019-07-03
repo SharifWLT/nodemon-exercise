@@ -1,0 +1,15 @@
+{
+  "name": "nodeconsole",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Sharif",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
